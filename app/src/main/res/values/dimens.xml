@@ -2,4 +2,31 @@
     <dimen name="app_bar_height">180dp</dimen>
     <dimen name="fab_margin">16dp</dimen>
     <dimen name="text_margin">16dp</dimen>
+
+
+    <dimen name="margin_0">0dp</dimen>
+    <dimen name="margin_1">1dp</dimen>
+    <dimen name="margin_2">2dp</dimen>
+    <dimen name="margin_5">5dp</dimen>
+    <dimen name="margin_7">7dp</dimen>
+    <dimen name="margin_8">8dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="margin_12">12dp</dimen>
+    <dimen name="margin_15">15dp</dimen>
+    <dimen name="margin_25">25dp</dimen>
+    <dimen name="logo_width">55dp</dimen>
+    <dimen name="margin_35">35dp</dimen>
+
+    <dimen name="close_button_size">28dp</dimen>
+    <dimen name="toolbar_height">48dp</dimen>
+    <dimen name="search_bar_height">45dp</dimen>
+    <dimen name="divider_height">0.5px</dimen>
+
+
+    <!-- font size -->
+    <dimen name="extra_large_font">22sp</dimen>
+    <dimen name="title_font">16sp</dimen>
+    <dimen name="default_font">14sp</dimen>
+    <dimen name="small_font">12sp</dimen>
+    <dimen name="tiny_font">10sp</dimen>
 </resources>

@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">Autoride Wallet</string>
+
+
+    <string name="enter_your_ttin_number_or_contact_number">Enter your pin or contact number</string>
     <string name="large_text">
         "Material is the metaphor.\n\n"
 
