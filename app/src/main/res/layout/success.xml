@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_50sdp"
+        android:text="THANK YOU!"
+        android:gravity="center"
+        android:textColor="#ffffff"
+        android:textSize="18sp"
+        android:layout_alignParentTop="true"
+        android:paddingBottom="@dimen/_5sdp"
+        android:paddingTop="@dimen/_5sdp"
+        android:background="#009CDE"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawablePadding="@dimen/_10sdp"
+        android:drawableTop="@drawable/ic_check_circle_black_24dp"
+        android:gravity="center"
+        android:drawableTint="#A2DD7C"
+        android:layout_centerInParent="true"
+        android:textSize="@dimen/_38sdp"
+        android:textColor="#586A7B"
+        android:text="You're all done"/>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_alignParentBottom="true">
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_1sdp"
+            android:background="#d8eef7"
+
+            />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_50sdp"
+        android:gravity="center"
+        android:textColor="#6BD3FF"
+        android:textSize="@dimen/_18sdp"
+        android:text="New Sale"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_1sdp"
+            android:background="#d8eef7"
+
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_50sdp"
+            android:textSize="@dimen/_18sdp"
+            android:gravity="center"
+            android:textColor="#6BD3FF"
+            android:text="Save Customer Information"/>
+</LinearLayout>
+</RelativeLayout>
